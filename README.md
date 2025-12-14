@@ -1,16 +1,31 @@
-# visit_srilanka
+# 🇱🇰 Visit Sri Lanka - Smart Travel Planner
 
-A new Flutter project.
 
-## Getting Started
+> A comprehensive mobile application for planning and managing trips to Sri Lanka with offline capabilities, real-time local alerts, and intelligent budget tracking.
 
-This project is a starting point for a Flutter application.
+📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+✨ Core Features
+- 🗺️ **Smart Trip Planner** - Create, edit, and manage your Sri Lankan adventures
+- 🏖️ **Destination Explorer** - Discover 50+ destinations across 9 provinces
+- 💰 **Budget Tracker** - Track expenses with multi-currency support
+- 🚨 **Live Local Alerts** - Real-time weather, traffic, and festival notifications
+- 🍛 **Food & Culture Guide** - Explore authentic Sri Lankan cuisine and customs
+- ⭐ **Reviews & Tips** - Share experiences with fellow travelers
+- 🆘 **Emergency Help** - Quick access to emergency contacts and embassies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔥 Unique Features
+- **Live Local Conditions Advisor** - Dynamic travel alerts based on location
+- **Offline-First Architecture** - Full functionality without internet
+- **Smart Sync** - Automatic data synchronization when online
+- **Multi-Currency Budget** - LKR, USD, EUR, GBP, INR, AUD support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Technology Stack
+
+- **Framework:** Flutter 3.0+
+- **Language:** Dart
+- **State Management:** Provider
+- **Backend:** Firebase (Authentication, Firestore, Realtime Database)
+- **Local Database:** SQLite (sqflite)
+- **Architecture:** Feature-based Clean Architecture
+
