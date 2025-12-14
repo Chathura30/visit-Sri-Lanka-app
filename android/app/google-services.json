@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130160298146",
+    "project_id": "visitsrilanka-5d7c6",
+    "storage_bucket": "visitsrilanka-5d7c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130160298146:android:be891cd0461d0ad7436ffb",
+        "android_client_info": {
+          "package_name": "com.group.visit_srilanka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJX2B9zM1-uvdZHfOFDV68-9Rc0-yxQdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
